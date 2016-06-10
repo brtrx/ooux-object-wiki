@@ -3,7 +3,7 @@ A boilerplate for rapid prototyping of OOUX objects and their relationships
 
 ## What is it?
 
-This boilerplate is a TiddlyWiki - a lightweight wiki that is built into a single .html file.
+This boilerplate is a [TiddlyWiki] (tiddlywiki.com/) - a lightweight wiki that is built into a single .html file.
 
 It contains templates and examples useful to quickly constructing an object model like the one's described in Sophia Voychehovski's articles [\[1\]](http://alistapart.com/article/object-oriented-ux "Object-Oriented UX") [\[2\]] (http://alistapart.com/article/ooux-a-foundation-for-interaction-design "OOUX: A Foundation for Interaction Design") about Object-Oriented UX which appeared on A List Apart in 2015 and 2016.
 
