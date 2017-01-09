@@ -7,9 +7,16 @@ This boilerplate is a [TiddlyWiki] (http://tiddlywiki.com/) - a lightweight wiki
 
 It contains templates and examples useful to quickly constructing an object model like the one's described in Sophia Voychehovski's articles [\[1\]](http://alistapart.com/article/object-oriented-ux "Object-Oriented UX") [\[2\]] (http://alistapart.com/article/ooux-a-foundation-for-interaction-design "OOUX: A Foundation for Interaction Design") about Object-Oriented UX which appeared on A List Apart in 2015 and 2016.
 
+## Can I see a demo?
+
+Sure. You can preview the here http://justintauber.com/ooux-wiki.html
+
+(Note that, while you can edit this version in your browser, saving it will just download the TiddlyWiki to your computer.)
+
 ## Why did you make this?
 
 I realise that I wanted a tool that would allow me to rapidly move from post-it notes to a live OOUX diagram that I can view from two perspectives:
+
 * a clickable journey view I could use to explore the structure
 * "bird’s eye" system view of all objects
 
