@@ -10,7 +10,6 @@ It contains templates and examples useful to quickly constructing an object mode
 ## Can I see a demo?
 
 Sure. You can preview the here http://justintauber.com/ooux-wiki.html
-
 (Note that, while you can edit this version in your browser, saving it will just download the TiddlyWiki to your computer.)
 
 ## Why did you make this?
